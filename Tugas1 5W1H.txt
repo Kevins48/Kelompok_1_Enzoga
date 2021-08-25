@@ -1,12 +1,12 @@
-What
+1. What
 Web yang menjual produk fashion trending atau sekarang biasa di sebut hype beast seperti baju, celana, tas, topi, dll.
-Who
+2. Who
 produk-produk yang di jual di tujukan terutama untuk market anak muda umur 17 - 27 tahun.
-When
-karena toko ini berbasis web, pelanggan dapat melakukan pembelian atau transaksi lainnya kapan pun karena layanan web terbuka 24 jam dalam seminggu.
-Why
-karena produk yang di tawarkan di bandrol dengan harga yang terjangkau dan bahan berkualitas baik, di tambah tampilan web yang sederhana dan menarik membuat pelanggang nyaman dan suka untuk mampir ke toko web Enzoga
-Where
+3. When
+Waktu pengerjaan web ini di perkirakan selesai dalam kurun waktu 6 bulan.
+4. Why
+karena kami ingin membuat toko pakaian yang dapat dengan mudah di akses hanya menggunakan internet tanpa harus keluar rumah.
+5. Where
 Web Enzoga
-How
+6. How
 customer dapat mengunjungi toko web www.enzoga.com
