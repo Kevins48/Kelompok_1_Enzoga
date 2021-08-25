@@ -7,6 +7,6 @@ Waktu pengerjaan web ini di perkirakan selesai dalam kurun waktu 6 bulan.
 4. Why
 karena kami ingin membuat toko pakaian yang dapat dengan mudah di akses hanya menggunakan internet tanpa harus keluar rumah.
 5. Where
-Web Enzoga
+WFH dari rumah anggota masing-masing.
 6. How
-customer dapat mengunjungi toko web www.enzoga.com
+untuk pembuatan web Enzoga akan menggunakan Visual Studio Code.
