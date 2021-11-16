@@ -28,7 +28,6 @@ body {
     float: right;
 }
 
-
 nav {
     width: 100%;
     margin: auto;
@@ -53,7 +52,6 @@ nav ul li {
     float: left;
 }
 
-
 nav ul li a {
     color: bisque;
     font-weight: bold;
@@ -63,27 +61,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: brown;
     text-decoration: dashed;
-}
-
-nav ul ul {
-    display: none;
-    position: absolute;
-    top: 60px;
-}
-
-nav ul li:hover > ul{
-    display: block;
-    background-color: rgb(255, 190, 105);
-    
-}
-
-nav ul ul li {
-    width: 100px;
-    float: none;
-    display: list-item;
-    position: relative;
 }
 
 section {
@@ -183,9 +161,10 @@ h3 {
     text-align: center;
     width: 100%;
     padding: 50px 0px 50px 0px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 
 
    
+}
