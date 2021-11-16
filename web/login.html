@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login || Enzoga</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href='index.html'>Enzoga</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#aboutus">About us</a></li>
+                    <li><a href="#">Pria</a>
+
+                        <ul calss="drop">
+                            <li><a href="Pria.html">Atasan</a></li>
+                            <li><a href="Pria.html">Bawahan</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Wanita</a>
+                        <ul>
+                            <li><a href="wanita.html">Atasan</a></li>
+                            <li><a href="wanita.html">Bawahan</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Anak</a>
+                        <ul>
+                            <li><a href="anak.html">Atasan</a></li>
+                            <li><a href="anak.html">Bawahan</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="aksesoris.html">Aksesoris</a></li>
+                    <li><a href="signup.html" class="tbl-biru">Sign up</a></li>
+                    <li><a href="login.html" class="tbl-biru">Sign in</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        form {
+            border: 500px solid bisque;
+        }
+        
+        input[type=text],
+        input[type=password] {
+            width: 100%;
+            padding: 12px 10px;
+            margin: 10px;
+            display: inline-block;
+            border: 4px solid #ccc;
+            box-sizing: border-box;
+        }
+        
+        button {
+            background-color: #04AA6D;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+        
+        button:hover {
+            opacity: 0.8;
+        }
+        
+        .cancelbtn {
+            width: auto;
+            padding: 10px 18px;
+            background-color: #f44336;
+        }
+        
+        .imgcontainer {
+            text-align: center;
+            margin: 24px 0 12px 0;
+        }
+        
+        img.avatar {
+            width: 40%;
+            border-radius: 50%;
+        }
+        
+        .container {
+            padding: 40px;
+        }
+        
+        span.psw {
+            float: right;
+            padding-top: 16px;
+        }
+        
+        @media screen and (max-width: 300px) {
+            span.psw {
+                display: block;
+                float: none;
+            }
+            .cancelbtn {
+                width: 100%;
+            }
+        }
+    </style>
+    </head>
+
+    <body>
+
+
+
+        <form action="/action_page.php" method="post">
+            <div class="container">
+                <h2>Login Enzoga</h2>
+
+            </div>
+
+            <div class="container">
+                <label for="uname"><b>Username</b></label>
+                <input type="text" placeholder="Enter Username" name="uname" required>
+
+                <label for="psw"><b>Password</b></label>
+                <input type="password" placeholder="Enter Password" name="psw" required>
+
+                <button type="submit">Login</button>
+                <label>
+          <input type="checkbox" checked="checked" name="remember"> Remember me
+        </label>
+            </div>
+    </body>
+
+</html>
